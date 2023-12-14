@@ -10,7 +10,7 @@
 <li> Body-parser - This extracts the entire body portion of an incoming request stream and exposes it on req.body </li>
 </ul>
 
-![png](https://github.com/missating/nodejs-todo/blob/master/todo.png?raw=true 'web todo')
+![png](./todo.png 'web todo')
 
 <br>
 
@@ -21,5 +21,5 @@
 
 <li> Then start the server using <code> yarn start </code> </li>
 
-<li> Navigate to your browser <code> http://localhost:4200/ </code> to view the app </li>
+<li> Navigate to your browser <code> http://localhost:5000/ </code> to view the app </li>
 </ol>
