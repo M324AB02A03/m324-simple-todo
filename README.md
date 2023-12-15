@@ -14,10 +14,8 @@
 
 <p> How to run the app locally: </p>
 
-<ol>
-<li> Run <code> yarn install </code> to install all needed dependencies </li>
+1. Run `yarn install`to install all needed dependencies
 
-<li> Then start the server using <code> yarn start </code> </li>
+2. Then start the server using `yarn start`
 
-<li> Navigate to your browser <code> http://localhost:5000/ </code> to view the app </li>
-</ol>
+3. Navigate to your browser `http://localhost:5000/` to view the app
