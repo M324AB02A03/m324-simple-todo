@@ -2,17 +2,17 @@
 
 ## A simple To Do List application built with Node.js and Express
 
-<p> Nodejs application that let's you add and complete task on a single page, storing both new and completed task in a different array. This appllication makes use of: </p>
+Nodejs application that let's you add and complete task on a single page, storing both new and completed task in a different array. This appllication makes use of:
 
-- EJS - A simple templating engine that lets you generate HTML markup with plain JS </li>
+- EJS - A simple templating engine that lets you generate HTML markup with plain JS
 
-- Body-parser - This extracts the entire body portion of an incoming request stream and exposes it on req.body </li>
+- Body-parser - This extracts the entire body portion of an incoming request stream and exposes it on req.body
 
 ![png](./todo.png "web todo")
 
 <br>
 
-<p> How to run the app locally: </p>
+How to run the app locally:
 
 1. Run `yarn install`to install all needed dependencies
 
